@@ -1,6 +1,6 @@
 {
 	"name": "beverse",
-	"workspaces": ["apps/*"],
+	"workspaces": ["apps/*", "packages/*"],
 	"private": true,
 	"scripts": {
 		"build": "turbo run build",

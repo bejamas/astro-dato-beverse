@@ -14,7 +14,8 @@
 		"@datocms/cda-client": "^0.2.5",
 		"@tailwindcss/vite": "^4.0.1",
 		"astro": "^5.2.1",
-		"tailwindcss": "^4.0.1"
+		"tailwindcss": "^4.0.1",
+    "@beverse/ui": "workspace:*"
 	},
 	"devDependencies": {
 		"turbo": "^2.4.2"
